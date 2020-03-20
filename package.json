@@ -1,14 +1,10 @@
 {
-	"name": "superb",
-	"version": "4.0.0",
-	"description": "Get superb like words",
+	"name": "brah",
+	"version": "1.0.0",
+	"description": "Get brah like words",
 	"license": "MIT",
-	"repository": "sindresorhus/superb",
-	"author": {
-		"name": "Sindre Sorhus",
-		"email": "sindresorhus@gmail.com",
-		"url": "sindresorhus.com"
-	},
+	"repository": "jasenmichel/brah",
+	"author": "jasenmichael",
 	"engines": {
 		"node": ">=8"
 	},
@@ -21,7 +17,7 @@
 		"words.json"
 	],
 	"keywords": [
-		"superb",
+		"brah",
 		"awesome",
 		"word",
 		"words",

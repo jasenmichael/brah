@@ -1,14 +1,14 @@
 import words = require('./words.json');
 
-declare const superb: {
+declare const brah: {
 	/**
 	All the words in alphabetical order.
 
 	@example
 	```
-	import superb = require('superb');
+	import brah = require('brah');
 
-	superb.all;
+	brah.all;
 	//=> ['ace', 'amazing', …]
 	```
 	*/
@@ -19,16 +19,16 @@ declare const superb: {
 
 	@example
 	```
-	import superb = require('superb');
+	import brah = require('brah');
 
-	superb.random();
+	brah.random();
 	//=> 'legendary'
 
-	superb.random();
+	brah.random();
 	//=> 'awesome'
 	```
 	*/
 	random(): string;
 };
 
-export = superb;
+export = brah;

@@ -1,6 +1,6 @@
-# superb [![Build Status](https://travis-ci.org/sindresorhus/superb.svg?branch=master)](https://travis-ci.org/sindresorhus/superb)
+# brah [![Build Status](https://travis-ci.org/sindresorhus/brah.svg?branch=master)](https://travis-ci.org/sindresorhus/brah)
 
-> Get superb like words
+> Get brah like words
 
 Currently ~100 words. **I'm not accepting more words.**
 
@@ -10,22 +10,22 @@ The word list itself is just a [JSON file](words.json) and can be used anywhere.
 ## Install
 
 ```
-$ npm install superb
+$ npm install brah
 ```
 
 
 ## Usage
 
 ```js
-const superb = require('superb');
+const brah = require('brah');
 
-superb.random();
+brah.random();
 //=> 'legendary'
 
-superb.random();
+brah.random();
 //=> 'awesome'
 
-superb.all;
+brah.all;
 //=> ['ace', 'amazing', …]
 ```
 
@@ -46,7 +46,7 @@ Random word.
 
 ## Related
 
-- [superb-cli](https://github.com/sindresorhus/superb-cli) - CLI for this module
+- [brah-cli](https://github.com/sindresorhus/brah-cli) - CLI for this module
 - [cat-names](https://github.com/sindresorhus/cat-names) - Get popular cat names
 - [dog-names](https://github.com/sindresorhus/dog-names) - Get popular dog names
 - [pokemon](https://github.com/sindresorhus/pokemon) - Get Pokémon names

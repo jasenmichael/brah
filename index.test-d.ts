@@ -1,5 +1,5 @@
 import {expectType} from 'tsd';
-import superb = require('.');
+import brah = require('.');
 
-expectType<readonly string[]>(superb.all);
-expectType<string>(superb.random());
+expectType<readonly string[]>(brah.all);
+expectType<string>(brah.random());
