@@ -2,7 +2,7 @@
 
 > Get brah like words
 
-Currently ~100 words. **I'm not accepting more words.**
+Currently ~43 words. **I might accept more words.**
 
 The word list itself is just a [JSON file](words.json) and can be used anywhere.
 
@@ -46,7 +46,8 @@ Random word.
 
 ## Related
 
-- [brah-cli](https://github.com/sindresorhus/brah-cli) - CLI for this module
+- [random](https://github.com/sindresorhus/random) - Brah is a fork of this, with only words changed
+- [random-cli](https://github.com/sindresorhus/brah-cli) - CLI for random
 - [cat-names](https://github.com/sindresorhus/cat-names) - Get popular cat names
 - [dog-names](https://github.com/sindresorhus/dog-names) - Get popular dog names
 - [pokemon](https://github.com/sindresorhus/pokemon) - Get Pokémon names
@@ -56,5 +57,5 @@ Random word.
 
 
 ## License
-
+Brah is a fork of random, with only words changed, all credit goes to Sindre Sorhus.
 MIT © [Sindre Sorhus](https://sindresorhus.com)
